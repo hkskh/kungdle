@@ -439,7 +439,7 @@ this.wordle.bundle = function(e) {
         return o(t,[{key:"connectedCallback",value:function(){
             var e,a=this;
             this.shadowRoot.appendChild(Sa.content.cloneNode(!0)),
-                this.shadowRoot.querySelector("#hash").textContent=null===(e=window.wordle)||void 0===e?void 0:e.hash,this.shadowRoot.querySelector("#puzzle-number").textContent="#".concat(this.gameApp.dayOffset-206),
+                this.shadowRoot.querySelector("#hash").textContent=null===(e=window.wordle)||void 0===e?void 0:e.hash,this.shadowRoot.querySelector("#puzzle-number").textContent="#".concat(this.gameApp.dayOffset-221),
                 this.shadowRoot.addEventListener("game-switch-change",(function(e){
                     e.stopPropagation();
                     var s=e.detail,t=s.name,o=s.checked,n=s.disabled;
