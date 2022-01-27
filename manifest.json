@@ -1,0 +1,21 @@
+{
+  "short_name": "Kungdle",
+  "name": "Kungdle",
+  "icons": [
+    {
+      "src": "/kungdle/index_files/kungdle_logo_32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "/kungdle/index_files/kungdle_logo_192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "https://hkskh.github.io/kungdle/",
+  "background_color": "#6aaa64",
+  "display": "standalone",
+  "theme_color": "#6aaa64",
+  "description": "A HKSKH-themed parody of Wordle"
+}
