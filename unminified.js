@@ -849,7 +849,7 @@ Cs.innerHTML='\n  <style>\n    .container {\n      display: flex;\n      flex-di
                             a.preventDefault(),a.stopPropagation();
                             As(function(e){
                                 var a=e.evaluations,
-                                    s=e.dayOffset-206,
+                                    s=e.dayOffset-221,
                                     t=e.rowIndex,
                                     o=e.isHardMode,
                                     n=e.isWin,
