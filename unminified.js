@@ -884,7 +884,7 @@ Cs.innerHTML='\n  <style>\n    .container {\n      display: flex;\n      flex-di
                                 isWin:e.gameApp.gameStatus===es
                             }),
                             (function(){e.gameApp.addToast("Copied results to clipboard",2e3,!0)}),
-                            (function(){e.gameApp.addToast("Share failed",2e3,!0)}))
+                            (function(){e.gameApp.addToast("Share failed. Try using a standalone browser?",2e3,!0)}))
                         }))
                     }
                 }
